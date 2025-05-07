@@ -4,7 +4,6 @@
 
 - 🎓 I'm studying **Computer Science** at **Tarlac State University**  
 - 🌱 I’m currently learning **Game Development** (Unity, C#).  
-- 📝 I regularly write notes on [kaijotic.github.io/dev-notes/](https://kaijotic.github.io/dev-notes/)  
 - 📫 How to reach me: [kaijotic.isdev@gmail.com](mailto:kaijotic.isdev@gmail.com)
 
 ---
